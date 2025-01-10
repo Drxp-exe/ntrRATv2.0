@@ -35,5 +35,5 @@ ntrRAT offers reliable and secure remote access while ensuring that your operati
 # HOW TO USE : 
 - download the zip file
 - extract it 
-- run start.bat 
+- run ntrRAT.exe 
 
